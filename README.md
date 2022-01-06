@@ -1,0 +1,1 @@
+Builted based on: https://nextjs.org/learn/basics/create-nextjs-app
