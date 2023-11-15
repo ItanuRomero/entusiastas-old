@@ -1,1 +1,1 @@
-Builted based on: https://nextjs.org/learn/basics/create-nextjs-app
+Repositório será substituído pelo: https://github.com/ItanuRomero/entusiastas
